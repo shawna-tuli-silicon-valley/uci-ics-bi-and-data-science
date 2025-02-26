@@ -9,3 +9,7 @@
 ![standard](https://user-images.githubusercontent.com/19508013/169395806-5f4e08f0-949e-4651-8f06-c9dfc00652b0.png)
 
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165648227-43cf92b5-ec29-467e-bc83-44602f56bd18.png)
+
+"Shawna was an incredible mentor during our Uber business intelligence analysis project. She provided clear guidance on structuring our analysis, helping us break down complex incentive models into actionable insights. Her ability to translate business problems into analytical frameworks greatly enhanced our approach.
+
+Beyond her technical expertise, Shawna fostered a supportive and collaborative environment, always making time to explain concepts and offer constructive feedback. Her mentorship strengthened my analytical and communication skills, and I'm truly grateful for her guidance. I highly recommend Shawna to anyone seeking a knowledgeable and supportive mentor." - Yue Jiang (UCI ICS Data Science Undergraduate) 
